@@ -5,6 +5,7 @@ description: 'This is a file that contains information regarding 8.06 quantum ph
   of a charged particle in a magnetic field.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-06-quantum-physics-iii-spring-2016/3e3e804176b9c697b16abd811b5dfa89_MIT8_06S16_Supplementry.pdf
 file_type: application/pdf
+parent_uid: c12a6c26-ce95-2fb6-d666-daf4f93f8f4d
 resourcetype: Document
 title: 'Supplementary Notes: Canonical Quantization and Application to the Quantum
   Mechanics of a Charged Particle in a Magnetic Field'

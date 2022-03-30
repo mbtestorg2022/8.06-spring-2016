@@ -10,7 +10,7 @@ Course Overview
 
 This page focuses on the course _8.06 Quantum Physics III_ as it was taught by Professor Aram Harrow in Spring 2016.
 
-This course is a continuation of _[8.05 Quantum Physics II](/courses/8-422-atomic-and-optical-physics-ii-spring-2013/)__._ Topics include units, time-independent approximation methods, the structure of one- and two-electron atoms, charged particles in a magnetic field and time-dependent perturbation theory. Students research and write a paper on a topic related to the content of 8.05 and 8.06.
+This course is a continuation of _[8.05 Quantum Physics II](/courses/8-422-atomic-and-optical-physics-ii-spring-2013)__._ Topics include units, time-independent approximation methods, the structure of one- and two-electron atoms, charged particles in a magnetic field and time-dependent perturbation theory. Students research and write a paper on a topic related to the content of 8.05 and 8.06.
 
 Course Outcomes
 ---------------
@@ -25,7 +25,7 @@ Curriculum Information
 
 ### Prerequisites
 
-_[8.05 Quantum Physics II](/courses/8-422-atomic-and-optical-physics-ii-spring-2013/)_
+_[8.05 Quantum Physics II](/courses/8-422-atomic-and-optical-physics-ii-spring-2013)_
 
 ### Requirements Satisfied
 
